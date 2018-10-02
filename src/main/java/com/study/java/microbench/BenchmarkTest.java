@@ -11,10 +11,10 @@ import java.util.stream.Stream;
 @State(Scope.Benchmark)
 public class BenchmarkTest {
 
-    public List<ObjectTest> objectTestList;
+    public List<Object> objectTestList;
 
     public void populateList() {
-        objectTestList = Stream.generate(ObjectTest::new).limit(1000000).collect(Collectors.toList());
+        objectTestList = Stream.generate(Object::new).limit(1000000).collect(Collectors.toList());
     }
 
     @Benchmark
