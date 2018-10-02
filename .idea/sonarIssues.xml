@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/study/java/microbench/BenchmarkRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/study/java/microbench/BenchmarkTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/study/java/microbench/BrenchmarkRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/async-int-middleware/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/async-int-middleware/src/test/java/com/movile/async/middleware/bean/bean/integration/mobicare/NotifyEventProcessorBO_ESTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/async-int-middleware/src/test/java/com/movile/async/middleware/bean/integration/mobicare/NotifyEventProcessorBO_ESTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/async-int-middleware/src/test/java/com/movile/async/middleware/bean/integration/mobicare/NotifyEventProcessorBO_ESTest_scaffolding.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/billingSystem/sbs-api-webservice/src/integration-test/java/com/movile/sbs/integrationtest/context/WebserviceConfigurationContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/billingSystem/sbs-api-webservice/src/integration-test/resources/cassandra.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/billingSystem/sbs-api-webservice/src/main/java/com/compera/billing/resource/SubscriptionResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/billingSystem/sbs-integrations/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/billingSystem/sbs-integrations/src/main/java/com/compera/billing/executor/impl/BillingExecutor_MobicareOi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/subscriptionEngine/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/subscriptionEngine/sbs-engine-config/cajamar4/const.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/subscriptionEngine/sbs-engine-config/cajamar4/janus-throughput.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/subscriptionEngine/sbs-engine-config/cajamar5/const.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/subscriptionEngine/sbs-engine-config/cajamar5/janus-throughput.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/subscriptionEngine/sbs-engine-config/pirajui2/const.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/subscriptionEngine/sbs-engine-config/pirajui2/janus-throughput.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/subscriptionEngine/sbs-engine-config/pirajui3/const.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/movile-projects/subscriptionEngine/sbs-engine-config/pirajui3/janus-throughput.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

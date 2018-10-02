@@ -1,0 +1,3 @@
+JMH S 39 com.study.java.microbench.BenchmarkTest S 73 com.study.java.microbench.generated.BenchmarkTest_objectsNonNull2_jmhTest S 15 objectsNonNull2 S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 39 com.study.java.microbench.BenchmarkTest S 68 com.study.java.microbench.generated.BenchmarkTest_oldNotNull_jmhTest S 10 oldNotNull S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 11 NANOSECONDS E E 
+JMH S 39 com.study.java.microbench.BenchmarkTest S 72 com.study.java.microbench.generated.BenchmarkTest_objectsNonNull_jmhTest S 14 objectsNonNull S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
